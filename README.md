@@ -1,1 +1,1 @@
-This is Demo, bitmap be drawed bitmap to rounded corners bitmap.
+This is Demo about rounding bitmap.
